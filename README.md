@@ -52,8 +52,8 @@ routes/
 
 ```
 
-# Concept
+## 💡Concept
 This project covers the first approach to send emails in Laravel:
 
-Mail::send() — Quick, functional way to send emails using a view.
-Mailable Class — Structured, reusable class for complex emails and attachments.
+- Mail::send() — Quick, functional way to send emails using a view.
+- Mailable Class — Structured, reusable class for complex emails and attachments.
